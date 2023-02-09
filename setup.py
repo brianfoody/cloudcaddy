@@ -41,7 +41,7 @@ setup(
     ],
     entry_points="""
         [console_scripts]
-        cloudcaddy=cloudcaddy.cli:cli
+        cloudcaddy=cloudcaddy
     """,
     setup_requires=["pytest-runner"],
     extras_require={
