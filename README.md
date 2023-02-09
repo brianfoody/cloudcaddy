@@ -1,3 +1,3 @@
 # Bundling
 
-`tar --exclude='.git/' -cvzf  cloudcaddy-0.0.3.tar.gz ./`
+`tar --exclude='.git/' -cvzf  cloudcaddy-0.0.5.tar.gz ./`
